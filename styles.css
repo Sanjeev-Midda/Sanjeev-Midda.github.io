@@ -1,0 +1,16 @@
+a {
+    color: grey;
+}
+
+ul {
+    margin-top: 15px;
+}
+
+h6, a {
+    color: grey;
+    font-weight: 700;
+}
+
+.mb-3 {
+    width: 31%;
+}
